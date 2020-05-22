@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : fangwei
+  name      : Fang Wei
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 学者型的理论家，有爱心的架构师，追求卓越的程序员，有情怀的创业者
